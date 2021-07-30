@@ -8,7 +8,10 @@
  <H4> We're the Fastest Pathway</H4>
  <p> We took a challenge with Verizon and we rebuilt their entire web platform on Fusionshell in less than an hour! And what if you have a million customers on the Internet
   who want your apps, how are you going to get them to them?</p>
- <H4>Why FusionShell Opensource Produdcts?</H4>
+ <h4> We are CTS Grid Ready</h4>
+ <p>We can support Capitol Technology Solutions(CTS) Grid Technology allowing our products to be distributed across smart Network Hybrid Infrastructure today.</p><BR>
+ h4> We are CTS Proximity Ready</h4>
+ <p>We can support Capitol Technology Solutions(CTS) Proximity Technology allowing our products to enhance sales and marketing options with Proximity Location Services</H4>
 <p> Any commercial software program you may wish to build requires a starting point. If you are building for an Intranet you may desire to use VisualStudio Tools and Forms which have been around for 30 years or more. But these tools take a lot of time to get to work as you have to build every layer of an application. You have to build a GUI, you have to create a signon mechanism, and then you have to make client-server database technology work. If you do this hundreds or thousands of times like in most large corporations you end up with islands of unusable code which doesnt work together. Most companies as they mature go through code consolidations where they choose parts of programs to build as their base code and over time they come up with 25-50p reusable code. They however are only using their own resources. In most business they will develop code for up to 10 years before they either buy commercial tools, or start over with the coolest app dejure.</p><BR><p>G/A is doing a different job, we are building only what we need to leverage the combined talents of the opensource community.We have developed Fusion shell to merge the worlds best opensource tools into a usuable bundle including Wordpress, Joomla, MediaWiki, WooCommerce and Drupal. </p>
 <H4> FusionShell Opensource Options</H4>  
 <p> We have several options for you to consider. 
