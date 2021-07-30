@@ -12,8 +12,8 @@
  <H4>Product Options By Existing or New Accounting/ERP System</H4>
 <UL><LI>G/a has a produt to integrate MS-Dynamics.</LI><LI>G/A has a toolset to integrate Oracle Financials</LI><LI> G/a has Opensource tools which integrate with Installatron Delivered Front Accounting</LI>
  <LI>G/a has a product to integrate with all service Businesses who use Aloha/Micros/Custom Hotel Systems coming soon</LI>
- <LI>Cutting Edge Infrastructure & Artificial Intelligence Systems from Capitol Technology Solutions & Verizon Wireless for HA Systems Delivery</LI>
- <LI>Mainframe Automation Across a Global Architecture</LI>
+ <LI>G/a Cutting Edge Infrastructure & Artificial Intelligence Systems from Capitol Technology Solutions & Verizon Wireless for HA Systems Delivery</LI>
+ <LI>G/a Mainframe Automation Across a Global Architecture</LI>
  </UL>
 <H4>What is FusionShell?</H4>
 <p>FusionShell is a responsive web template which detects your browser size, and paints a screen similar to Visual Basic Forms but it has pre-installed Wordpress, Joomla, and Drupal Content Management systems pre-integrated for your consumption.FusionShell then integrates these sales and marketing tools into a full service platform including Backoffice Accounting and Management systems. If you already own an Acounting system from a major vendor, or use opensource tools, Fusionshell can integrate seamlessly in just minutes to your business goals. <BR><BR>FusionShell is an Enterprise IT Solution in a box. It includes Sales, Marketing, Social Media Integration, SSO, Sales Support and Business Fulfillment in the base products and will integrate with Novell eDirectory or Microsoft Active Directory frameworks AND any commercial accounting package in just minutes.</p>
