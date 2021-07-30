@@ -1,6 +1,8 @@
 # WelcomeToGreenvilleAssociates
 <H3> Welcome to the Wonderful World of FusionShell. </H3>
-<p> FusionShell is a dynamic portal system which integrates several opensource together into a working business platform which makes your SMB look and feel like the largest coporations in the world.</p><BR>
+<p> FusionShell is a dynamic portal system which integrates several opensource together into a working business platform which makes your SMB look and feel like the largest coporations in the world. We have developer products which are intended for software architects who want a starting point and a working web framework which they can tinker with at their leisure which works, We have administrator products which allow you to install DBMS tools in very specific ways, and we have EndUserTools which use our expert guidance.</p> 
+<H4>What is FusionShell?</H4>
+<p>FusionShell is a responsive web template which detects your browser size, and paints a screen similar to Visual Basic Forms.</p><BR>
 <H4> FusionShell Opensource Options</H4>  
 <p> We have several options for you to consider. 
 <UL>
