@@ -1,5 +1,6 @@
 # WelcomeToGreenvilleAssociates
-<H3> Welcome to the Wonderful World of FusionShell. </H3>
+<H1> Welcome to the Wonderful World of FusionShell. </H1>
+<H2> What are FusionShell & FusionPro</H2>
 <p> FusionShell is a dynamic portal system which integrates several opensource content management systems together into a working business platform which makes your SMB or Large Enterprise, look and feel like the largest coporations in the world with lots of depth in product delivery, sales, and sales support. <BR> 
  <H4>Product Targets</H4>
 <UL><LI>G/A has<font color="green">Developer Products</font> which are intended for software architects who want a starting point and a working web framework which they can tinker with at their leisure which works.</LI><LI>G/A has<font color="green"> Administrator products:</font> which allow you to install DBMS tools in very specific ways, and we have <font color="green"><LI>G/A has End User Enterprise Tools</font> which use our expert guidance and pre-build executable installers and repositories.</p></LI>
