@@ -4,8 +4,9 @@
  <H4>Product Targets</H4>
 <UL><LI>G/A has<font color="green">Developer Products</font> which are intended for software architects who want a starting point and a working web framework which they can tinker with at their leisure which works.</LI><LI>G/A has<font color="green"> Administrator products:</font> which allow you to install DBMS tools in very specific ways, and we have <font color="green"><LI>G/A has End User Enterprise Tools</font> which use our expert guidance and pre-build executable installers and repositories.</p></LI>
  </UL>
-<H4>Product Options By DBMS Choice</H4>
-<UL><LI>G/A supports three primary DBMS toolsets in Fusionshell Mysql, Postgres, and MS-SQL</LI><LI>G/A has Professional Tools which integrate with an existing Backoffice ERP Toolset(Oracle/SAP/MS Dynamics) and opensource tools which go all on their own<LI>G/A has End User Enterprise Tools</font> which use our expert guidance and pre-build executable installers and repositories.</p></LI>
+<H4>Product Options By DBMS Choice & Greenfield or Existing Plans</H4>
+<UL><LI>G/A supports three primary DBMS toolsets in Fusionshell Mysql, Postgres, and MS-SQL</LI><LI>G/A has Professional Tools which integrate with an existing Backoffice ERP Toolset(Oracle/SAP/MS Dynamics)</LI><LI> Opensource tools which go all on their own</LI>
+ <LI>Pick your Flavor....Got Linux? Got Unix? Got Windows? We dont care.</LI>
  </UL>
  
  <H4>What is FusionShell?</H4>
