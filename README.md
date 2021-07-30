@@ -9,8 +9,11 @@
 <UL><LI>G/A supports three primary DBMS toolsets in Fusionshell Mysql, Postgres, and MS-SQL</LI><LI>G/A has Professional Tools which integrate with an existing Backoffice ERP Toolset(Oracle/SAP/MS Dynamics)</LI><LI> Opensource tools which go all on their own</LI>
  <LI>Pick your Flavor....Got Linux? Got Unix? Got Windows? We dont care.</LI>
  </UL>
- 
- <H4>What is FusionShell?</H4>
+ <H4>Product Options By Existing or New Accounting/ERP System</H4>
+<UL><LI>G/a has a produt to integrate MS-Dynamics.</LI><LI>G/A has a toolset to integrate Oracle Financials</LI><LI> G/a has Opensource tools which integrate with Installatron Delivered Front Accounting</LI>
+ <LI>A Service Business with Aloha/Micros/Custom Hotel System?</LI>
+ </UL>
+<H4>What is FusionShell?</H4>
 <p>FusionShell is a responsive web template which detects your browser size, and paints a screen similar to Visual Basic Forms but it has pre-installed Wordpress, Joomla, and Drupal Content Management systems pre-integrated for your consumption.FusionShell then integrates these sales and marketing tools into a full service platform including Backoffice Accounting and Management systems. If you already own an Acounting system from a major vendor, or use opensource tools, Fusionshell can integrate seamlessly in just minutes to your business goals. <BR><BR>FusionShell is an Enterprise IT Solution in a box. It includes Sales, Marketing, Social Media Integration, SSO, Sales Support and Business Fulfillment in the base products and will integrate with Novell eDirectory or Microsoft Active Directory frameworks AND any commercial accounting package in just minutes.</p>
 <H2> Why FusionPro?</H2>
 <H4>FusionPro is different in that its a professional sales and marketing tool for companies which already own an ERP system such as Oracle Financials, Oracle NetSuite, Microsoft Dynamics, SAP, MicrosBackoffice, or NCR/Aloha Backoffice. FusionPro helps your company build a sales presence which is significantly more sophisticatd than you could do on your own in 10 years of effort, or perhaps even 20 years with any platform in the world.</H4>
