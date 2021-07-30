@@ -1,5 +1,5 @@
 # WelcomeToGreenvilleAssociates
-<H1> Welcome to the Wonderful World of FusionShell. </H1>
+<H2> Welcome to the Wonderful World of FusionShell. </H2>
 <H4> What are FusionShell & FusionPro</H4>
 <p> FusionProducts(FusionShell/FusionPro) are a set of tools which provide a dynamic portal system and backoffice which integrates several opensource content management systems together into a working business platform which makes your SMB or Large Enterprise, look and feel like the largest coporations in the world with lots of depth in product delivery, sales, and sales support. <BR><BR>We "Fuse" a Sales and Marketing Base with Existing or New Accounting Systems and BackOffice Tools including mobile, and Intranet platforms at any scale, on any server type, and with any size userbase....but admittedly at the high end we need a bit of help from our partner Capitol Technology Solutions(CTS)/Verizon who provide us managed Grid Infrastructure and HA Frameworks to use with our systems and proximity-enable them. <BR> 
  <H4>Product Targets</H4>
