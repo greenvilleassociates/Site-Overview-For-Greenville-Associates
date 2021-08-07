@@ -10,7 +10,7 @@
  <LI>Pick your Flavor....Got Linux? Got Unix? Got Windows? We dont care.</LI><LI> Pick your Cloud, Your ILEC, Your Colo, Your Premise, we dont care!</LI>
  </UL>
  <H4>Product Options By Existing or New Accounting/ERP System</H4>
-<UL><LI>G/a has a produt to integrate MS-Dynamics.</LI><LI>G/A has a toolset to integrate Oracle Financials</LI><LI> G/a has Opensource tools which integrate with Installatron Delivered Front Accounting</LI>
+<UL><LI>G/a has a product to integrate MS-Dynamics.</LI><LI>G/A has a toolset to integrate Oracle Financials</LI><LI> G/a has Opensource tools which integrate with Installatron Delivered Front Accounting</LI>
  <LI>G/a has a product to integrate with all service Businesses who use Aloha/Micros/Custom Hotel Systems coming soon</LI>
  <LI>G/a Cutting Edge Infrastructure & Artificial Intelligence Systems from Capitol Technology Solutions & Verizon Wireless for HA Systems Delivery</LI>
  <LI>G/a Mainframe Automation Across a Global Architecture</LI>
